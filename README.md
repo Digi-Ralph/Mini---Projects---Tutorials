@@ -1,2 +1,1 @@
-# JavaScript-30-Days
- wesbos cardio 
+# Mini - Projects - Tutorials found in the internet 
